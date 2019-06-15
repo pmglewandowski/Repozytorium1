@@ -5,4 +5,4 @@
 ####        nauczyć się gita i githuba
 
 ###    _Opis_
-            uczę się z tutoriala ze [strony] (https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html).
+            uczę się z tutoriala z (https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html).
